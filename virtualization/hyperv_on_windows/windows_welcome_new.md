@@ -24,7 +24,7 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 			<ul>
 				<li class="unordered"> Learn more about virtualization with this [introduction to Hyper-V](./about/hyperv_on_windows.md).<br /><br /></li>
 				<li class="unordered">[Supported guest operating systems](about\supported_guest_os.md)<br /><br /></li>
-			</ul>	
+			</ul>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -50,8 +50,8 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 			<p>Additional technical support and community resources</p>
 			<ul>
 				<li class="unordered"> Have questions? Ask them on the [Hyper-V forums](https://social.technet.microsoft.com/Forums/windowsserver/en-US/home?forum=winserverhyperv)<br /><br /></li>
-				<li class="unordered">[Community Resources for Hyper-V and Windows Containers](..\community\community_overview.md)<br /><br /></li>
-			</ul>	
+				<li class="unordered">[Community Resources for Hyper-V and Windows Containers](/en-us/openpublishing/corefx/installing-core-osx)<br /><br /></li>
+			</ul>
 		</td>
 	</tr>
 </table>
