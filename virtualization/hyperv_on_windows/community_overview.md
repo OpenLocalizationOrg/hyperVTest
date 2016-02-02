@@ -8,7 +8,7 @@ title: Community Resources
 ## Contribute 
 
 * [Docker for Windows](https://github.com/Microsoft/docker) on GitHub
-* [This documentation site and samples](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**
+* [This documentation site and samples](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**.
 
 ## User Forums 
 
