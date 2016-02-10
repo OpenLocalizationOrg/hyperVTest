@@ -23,7 +23,7 @@ title: Step 2: Install Hyper-V on Windows 10
 
 2. Enter the following command:
 
-```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V –All```
+```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V –All`
 
 When the installation has completed you will need to reboot the computer.
 
