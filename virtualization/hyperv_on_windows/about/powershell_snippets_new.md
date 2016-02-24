@@ -3,7 +3,7 @@
 	description="Custom settings description of Azure AD Connect credentials and permissions." 
 	services="active-directory" 
 	documentationCenter="" 
-	authors="billmath" 
+	authors="billmath TEST" 
 	manager="stevenpo" 
 	editor="curtand"/>
 
