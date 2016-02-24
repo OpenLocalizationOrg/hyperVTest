@@ -1,3 +1,22 @@
+<properties 
+	pageTitle="More about Azure AD Connect credentials and permissions" 
+	description="Custom settings description of Azure AD Connect credentials and permissions." 
+	services="active-directory" 
+	documentationCenter="" 
+	authors="billmath" 
+	manager="stevenpo" 
+	editor="curtand"/>
+
+<tags 
+	ms.service="active-directory" 
+	ms.workload="identity" 
+	ms.tgt_pltfrm="na" 
+	ms.devlang="na" 
+	ms.topic="article" 
+	ms.date="08/24/2015" 
+	ms.author="billmath"/>
+
+
 ms.ContentId: 8DE9250B-556B-47BC-AD9A-8992B3D3D0F9
 title: PowerShell Snippets
 
