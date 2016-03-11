@@ -7,8 +7,8 @@ title: Community Resources
 
 ## Contribute// 
 
-* [(/ページ)](https://github.com/Microsoft/docker) on GitHub
-* [This documentation site and samples](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**.
+* [\[オプション\] (\[環境\]/\[全般\] ページ))](https://github.com/Microsoft/docker) on GitHub
+* [[オプション] ([環境]/[全般] ページ)](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**.
 
 ## User Forums 
 
