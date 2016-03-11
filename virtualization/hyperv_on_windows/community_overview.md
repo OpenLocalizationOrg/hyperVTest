@@ -7,7 +7,7 @@ title: Community Resources
 
 ## Contribute// 
 
-* [\[オプション\] (\[環境\]/\[全般\] ページ))](https://github.com/Microsoft/docker) on GitHub
+* [\[オプション\] (\[環境\]/\[全般\] ページ)](https://github.com/Microsoft/docker) on GitHub
 * [[オプション] ([環境]/[全般] ページ)](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**.
 
 ## User Forums 
