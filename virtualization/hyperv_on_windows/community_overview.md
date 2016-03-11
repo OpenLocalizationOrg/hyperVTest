@@ -3,11 +3,11 @@ title: Community Resources
 
 # Community/Resources 
 
-26-Jan 2016 update. Hey! This is test update on 11-Nov part2. Check out resources available to the user community. There is also a lot to see on the [Docker /community](https://www.docker.com/community/participate/) *pages*.
+26-Jan 2016 update. Hey! This is test update on 11-Nov part2. Check out resources available to the user community. There is also a lot to see on the [Docker/community](https://www.docker.com/community/participate/) *pages*.
 
 ## Contribute// 
 
-* [Docker for Windows](https://github.com/Microsoft/docker) on GitHub
+* [(/ページ)](https://github.com/Microsoft/docker) on GitHub
 * [This documentation site and samples](https://github.com/Microsoft/Virtualization-Documentation) **on GitHub**.
 
 ## User Forums 
