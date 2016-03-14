@@ -2,19 +2,19 @@
     "build_entry_point": "",
     "docsets_to_publish": [
         {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_community",
+            "docset_name": "OpenLocalizationOrg_HyperVTest_community1",
             "build_output_subfolder": "virtualization/community",
             "locale": "en-us",
             "version": 0
         },
         {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_hyperv_on_windows",
+            "docset_name": "OpenLocalizationOrg_HyperVTest_hyperv_on_windows1",
             "build_output_subfolder": "virtualization/hyperv_on_windows",
             "locale": "en-us",
             "version": 0
         },
         {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_windowscontainers",
+            "docset_name": "OpenLocalizationOrg_HyperVTest_windowscontainers1",
             "build_output_subfolder": "virtualization/windowscontainers",
             "locale": "en-us",
             "version": 0
