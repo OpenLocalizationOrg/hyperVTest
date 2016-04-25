@@ -1,6 +1,6 @@
 {   
-   "locales": ["de-de", "zh-cn", "zh-tw", "pt-br", "vi-vn", "fr-fr", "es-es", "ko-kr", "ja-jp" ], 
-   "files":[ "!a/excludefolder/*.md", "**/*.md", "**/**/*.md"], 
+   "locales": ["de-de", "zh-cn" ], 
+   "files":["**/*.md", "**/**/*.md"], 
     "includeDependencies":true, 
     "autoPush":true, 
     "xliffVersion":"1.2" 
