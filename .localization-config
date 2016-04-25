@@ -1,11 +1,8 @@
-{
-  "locales": [ "ja-jp", "de-de", "fr-fr", "zh-cn", "zh-tw", "ko-kr", "es-es", "it-it", "vi-vn", "ru-ru" ],
-  "files": [
-  	"virtualization/hyperv_on_windows/checkpoints_TEST.md",
-	"virtualization/**/*.md"
-  ],
-  "useJavascriptMarkdownTransformer": true,
-  "includeDependencies": true,
-  "autoPush": true,
-  "xliffVersion": "2.0"
-}
+{   
+   "locales": ["de-de", "zh-cn", "zh-tw", "pt-br", "vi-vn", "fr-fr", "es-es", "ko-kr", "ja-jp" ], 
+   "files":[ "!a/excludefolder/*.md", "**/*.md", "**/**/*.md"], 
+    "includeDependencies":true, 
+    "autoPush":true, 
+    "xliffVersion":"1.2" 
+ }
+
