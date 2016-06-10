@@ -1,4 +1,4 @@
- 
+  
 ## Details  
   
 |||  
@@ -15,5 +15,3 @@ This is an informational message from REPAIR that states that a page has been al
   
 ## User Action  
 None  
-  
-
