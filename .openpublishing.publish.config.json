@@ -1,3 +1,4 @@
+
 {
     "build_entry_point": "",
     "docsets_to_publish": [
@@ -29,5 +30,8 @@
             }
         }
     ],
-    "notification_subscribers": ["fenxu@microsoft.com"]
+    "notification_subscribers": [
+	    "fenxu@microsoft.com",
+	    "swgupt@microsoft.com"
+    ]
 }
