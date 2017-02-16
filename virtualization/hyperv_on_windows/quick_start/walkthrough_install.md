@@ -1,3 +1,4 @@
+
 ms.ContentId: A6DD6776-614C-4D28-9B83-CB2EDFD263A3
 title: Step 2: Install Hyper-V on Windows 10
 
@@ -43,6 +44,8 @@ Once completed you will be prompted to reboot.
 
 ![](media/dism_upd.png)
 
+testing reference
+![](media/dism_upd_copy.png)
 
 ## Next Step 
 [Step 3: Create a virtual switch](walkthrough_virtual_switch.md) 
