@@ -1,37 +1,31 @@
-
 {
-    "build_entry_point": "",
-    "docsets_to_publish": [
-        {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_community",
-            "build_output_subfolder": "virtualization/community",
-            "locale": "en-us",
-            "version": 0,
-			"type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_hyperv_on_windows",
-            "build_output_subfolder": "virtualization/hyperv_on_windows",
-            "locale": "en-us",
-            "version": 0,
-			"type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "OpenLocalizationOrg_HyperVTest_windowscontainers",
-            "build_output_subfolder": "virtualization/windowscontainers",
-            "locale": "en-us",
-            "version": 0,
-			"type_mapping": {
-                "Conceptual": "Content"
-            }
-        }
-    ],
-    "notification_subscribers": [
-	    "fenxu@microsoft.com",
-	    "swgupt@microsoft.com"
-    ]
+  "build_entry_point": "",
+  "docsets_to_publish": [
+    {
+      "docset_name": "OpenLocalizationOrg_HyperVTest_community",
+      "build_output_subfolder": "virtualization/community",
+      "locale": "en-us",
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "version": 0
+    },
+    {
+      "docset_name": "OpenLocalizationOrg_HyperVTest_windowscontainers",
+      "build_output_subfolder": "virtualization/windowscontainers",
+      "locale": "en-us",
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "version": 0
+    }
+  ],
+  "notification_subscribers": [
+    "fenxu@microsoft.com",
+    "swgupt@microsoft.com"
+  ],
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
