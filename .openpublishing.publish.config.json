@@ -1,17 +1,6 @@
 {
   "build_entry_point": "",
-  "docsets_to_publish": [
-    {
-      "docset_name": "OpenLocalizationOrg_HyperVTest_windowscontainers",
-      "build_output_subfolder": "virtualization/windowscontainers",
-      "locale": "en-us",
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "version": 0
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [
     "fenxu@microsoft.com",
     "swgupt@microsoft.com"
